@@ -1,12 +1,13 @@
-## Hi there 👋
+### Tecnologia e Robótica é nossa paixão 
 
-<!--
+Sediado atualmente na universidade ENIAC em Guarulhos/SP, a equipe de robótica ENITRON tem como objetivo promover tecnologia e realizar estudos voltados para a área de robótica, disseminando o interesse e a paixão que possuímos pelo tema
 
-**Here are some ideas to get you started:**
+Nossos principais projetos são:
+Robô Humanóide 
+Robô Micromouse
+Robô de Futebol 
+Robô Seguidor de Linha
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Se interessou? Entre em contato com a equipe.<br>
+[Instagram](https://www.instagram.com/roboenitron/)<br>
+[Website](https://www.roboenitron.com.br/)
